@@ -1,3 +1,5 @@
+[![MasterHead](https://yt3.ggpht.com/qGLifTKkw2x2-7Ozb8wSPVXV7AQpdDY3NU5GSODk48UzIhkrkf3wjN21dojbk7urV73O2lSgnA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](https://www.linkedin.com/in/ayush-gemini)
+
 <h1 align="center">Hi 👋, I'm Ayush Gemini</h1>
 <h3 align="center">Blogger | Coder | Speaker</h3>
 
