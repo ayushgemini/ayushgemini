@@ -34,14 +34,10 @@ A 29Y/O Software🌈 developer🎯 from India. I'm passionate about Android Apps
 <br >
 
 ## 🏆 Github Status
-
-<img  src="https://github-readme-stats.vercel.app/api?username=ayushgemini&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgemini&theme=dark" width="45%" >
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgemini&show_icons=true&locale=en&layout=compact&theme=dark" width="45%" alt="ayushgemini" /></p>
-
+![ayushgemini's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushgemini&theme=dark&hide_border=true)
+![ayushgemini's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgemini&theme=dark&show_icons=true&hide_border=true)
 <br>
+
 
 <div align="center">
 
