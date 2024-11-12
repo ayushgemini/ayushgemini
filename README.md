@@ -4,7 +4,7 @@
 
 <h3 align="center">Blogger | Coder | Speaker ❤</h3>
   
-A 26Y/O Software🌈 developer🎯 from India. I'm passionate about Android Apps Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. 
+A 29Y/O Software🌈 developer🎯 from India. I'm passionate about Android Apps Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. 
 
 
 ![age](https://img.shields.io/badge/age-26-blue)
